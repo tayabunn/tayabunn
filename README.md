@@ -21,8 +21,6 @@
   \===Do Smart-work, Believe in Long-term proccess===/<br>
   \===Aim to be a Full-Stack with consistency.===/</p>
 
-<!-- ✅ FIXED IMAGE LINK: Using your GitHub-hosted version instead of LinkedIn -->
-<img align="center" width="1080" src="coding_header.jpg" alt="Coding">
 
 ---
 ## `// 🧑‍💻 About Me`
@@ -136,15 +134,6 @@ const JANNAT = {
  
 </div>
  
----
-
-## `// 🐍 Contribution Snake`
-
-<div align="center">
-<!--  <h2>📝 -Contributions- 📝</h2>-->
-     <img align-items="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tayabunn/tayabunn/output/github-contribution-grid-snake.svg">
-    <br/>
-</div>
  
 ---
 
@@ -163,7 +152,7 @@ const JANNAT = {
  
 <div align="center">
  
-<a href="https://github.com/tayabunn" target="_blank">
+<a href="https://www.linkedin.com/in/tayabunn/" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
 </a>
  
