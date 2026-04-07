@@ -1,31 +1,180 @@
-# 💫 About Me:
-🔭 I’m currently working on building responsive and scalable frontend applications using React and Next.js, focusing on clean architecture, reusable components, and performance optimization.<br>👯 I’m looking to collaborate on frontend web applications, React/Next.js projects, UI implementation from Figma designs, and modern full-stack projects that solve real-world problems.<br>🤝 I’m looking for help with advanced backend concepts, API architecture, authentication systems, and improving application scalability and performance.<br>🌱 I’m currently learning advanced React patterns, state management techniques, and backend fundamentals with Node.js.<br>💬 Ask me about react components, responsive UI design, clean code practices, Git workflows, and modern frontend development.<br>⚡ Fun fact I enjoy refactoring code as much as writing new features — clean code makes me happy.
+
+<div align="center">
+    <img height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+      <img height="50" width="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>         
+    <img height="60" width="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+            <img height="50" width="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+        <img height="40" width="40" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a9415ff0-40cb-44e8-b941-f9e3563c4238/d5afb2w-2e9d6840-6d33-4402-9c9b-555c25781c9a.gif"/>
+<br>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tayabunn.tayabunn" />
+</div>
+<br>
+<div align="center">
+ 
+<!-- Visitor Badge & Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003d,50:5b1084,100:8239c6&height=180&section=header&text=Hey%20There!%20I'm%20JANNAT%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Graphic%20Designer%20%7C%20AI%20Driven%20%7C%20Frontend-Web-Developer%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
+</div>
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tayabunn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Tayabunn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tayabunn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayabunnesa@gmail.com) 
+<p align="center" >
+  \====Graphic Designer. AI Driven. Prompt Engineer🚀====/ <br>
+  \===Do Smart-work, Believe in Long-term proccess===/<br>
+  \===Aim to be a Full-Stack with consistency.===/</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tayabunn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tayabunn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayabunn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tayabunn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tayabunn&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<!-- ✅ FIXED IMAGE LINK: Using your GitHub-hosted version instead of LinkedIn -->
+<img align="center" width="1080" src="coding_header.jpg" alt="Coding">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tayabunn&icon=0&color=0)](https://visitcount.itsvg.in)
+## `// 🧑‍💻 About Me`
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/tayabunn) 
+```js
+const JANNAT = {
+  name     : "Tayabun Nesa Jannat",
+  alias    : "tayabunn",
+  location : "Dhaka, Bangladesh",
+  role     : "Aspiring React Frontend Web Developer",
+  current  : ["React.js", "backend fundamentals with Node.js.", Claude-Code],
+  ask_me   : ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js", "Api-JSON", "Ai Integrate"],
+  reach_me : "tayabunn@gmail.com",
+  mantra   : "Do smart-work. Trust the long-term process.",
+  fun_fact : "I enjoy refactoring code as much as writing new features — clean code makes me happy".
+};
+```
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+## `// My Tech Forge`
+*Skills I've built, tools I've wielded, lessons that stuck.*
+<div align="center">
+</div>
+<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ React.js & Next.js</h3>
+      <p>Building fast, modern web apps with component-driven architecture and server-side rendering. My go-to stack for anything that needs to feel <em>alive</em>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Components-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/SSR-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Routing-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Tailwind & Shadcn UI</h3>
+      <p>Crafting clean, professional UIs that make users say <strong>"Wow"</strong> — utility-first, never cookie-cutter. Good design is a system, not a style sheet.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Design_Systems-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UI_Components-000000?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◈ AI-Driven Dev</h3>
+      <p>Leveraging AI to write smarter, cleaner code — augmenting skills, not replacing thought. The best engineers know which tools to trust.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Prompt_Engineering-10a37f?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Workflow-333?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⬡ Scalable Architecture</h3>
+      <p>Structuring projects so they stay maintainable as they grow — not just functional today, but future-proof tomorrow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Patterns-F59E0B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Structure-78716C?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+## `// 🔗 Connect With Me`
+ 
+<div align="right">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-s-m-hasan-47guy)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/s.m.hasan.369)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayabunn)
+ 
+</div>
+ 
+---
+
+
+## `// ⚒️ Languages, Frameworks & Tools`
+<div align="center">
+ 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+ 
+### Backend & DB *(learning)*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Design
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+ 
+</div>
+ 
+---
+ 
+## `// 📊 Activity Graph`
+<div align="center">
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tayabunn&theme=tokyo-night&radius=16&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
+ 
+</div>
+ 
+---
+
+## `// 🐍 Contribution Snake`
+
+<div align="center">
+<!--  <h2>📝 -Contributions- 📝</h2>-->
+     <img align-items="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tayabunn/tayabunn/output/github-contribution-grid-snake.svg">
+    <br/>
+</div>
+ 
+---
+
+## `// 🏆 GitHub Trophies`
+
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=tayabunn&theme=radical&no-frame=true&no-background=true&margin-w=8" alt="Trophies" />
+
+</div>
+
+---
+ 
+## `// ☕ Support My Work`
+ 
+<div align="center">
+ 
+<a href="https://github.com/tayabunn" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" />
+</a>
+ 
+</div>
+ 
+---
+ 
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003d,50:5b1084,100:8239c6&height=120&section=footer&animation=twinkling" width="100%"/>
+ 
+**Made with 💙 by JANNAT · [@tayabunn](https://github.com/tayabunn)**
+ 
+</div>
