@@ -161,9 +161,9 @@ const JANNAT = {
 ---
  
 <div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003d,50:5b1084,100:8239c6&height=120&section=footer&animation=twinkling" width="100%"/>
- 
-**Made with 💙 by JANNAT · [@tayabunn](https://github.com/tayabunn)**
- 
+
+<a href="mailto:tayabunnesa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tayabunnesa@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 </div>
