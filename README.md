@@ -159,10 +159,9 @@ const JANNAT = {
 </div>
  
 ---
- 
-<div align="center">
+ <div align="center">
 
-<a href="mailto:tayabunnesa@gmail.com">
+<a href="mailto:tayabunnesa@gmail.com?subject=Hello%20JANNAT&body=Hi%20JANNAT,%0A%0A">
   <img src="https://img.shields.io/badge/Email-tayabunnesa@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 
