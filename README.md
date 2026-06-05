@@ -17,9 +17,9 @@
 
 
 <p align="center" >
-  \====Graphic Designer. AI Driven. Prompt Engineer🚀====/ <br>
+  \====AI Driven. Mern Stack. Prompt Engineer🚀====/ <br>
   \===Do Smart-work, Believe in Long-term proccess===/<br>
-  \===Aim to be a Full-Stack with consistency.===/</p>
+  \===A Full-Stack Developer with consistency.===/</p>
 
 
 ---
