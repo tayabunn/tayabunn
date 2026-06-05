@@ -12,7 +12,7 @@
 <div align="center">
  
 <!-- Visitor Badge & Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003d,50:5b1084,100:8239c6&height=180&section=header&text=Hey%20There!%20I'm%20JANNAT%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Graphic%20Designer%20%7C%20AI%20Driven%20%7C%20Frontend-Web-Developer%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003d,50:5b1084,100:8239c6&height=180&section=header&text=Hey%20There!%20I'm%20JANNAT%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Driven%20%7C%20Mern%20Stack%20Developer%20%7C%20Prompt-Engineering%20in%20progress&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 
