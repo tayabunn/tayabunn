@@ -17,7 +17,7 @@
 
 
 <p align="center" >
-  \====AI Driven. Mern Stack. Prompt Engineer🚀====/ <br>
+  \====AI Driven. MERN Stack. Prompt Engineer🚀====/ <br>
   \===Do Smart-work, Believe in Long-term proccess===/<br>
   \===A Full-Stack Developer with consistency.===/</p>
 
@@ -30,9 +30,9 @@ const JANNAT = {
   name     : "Tayabun Nesa Jannat",
   alias    : "tayabunn",
   location : "Dhaka, Bangladesh",
-  role     : "Aspiring React Frontend Web Developer",
+  role     : "Aspiring Full Stack Web Developer",
   current  : ["React.js", "backend fundamentals with Node.js.", Claude-Code],
-  ask_me   : ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js", "Api-JSON", "Ai Integrate"],
+  ask_me   : ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React.js", "Next.js", "Api-JSON", "AI Integration"],
   reach_me : "tayabunn@gmail.com",
   mantra   : "Do smart-work. Trust the long-term process.",
   fun_fact : "I enjoy refactoring code as much as writing new features — clean code makes me happy".
